@@ -3,13 +3,13 @@ title:               WZDMC
 tagline:             'wzdmc blog'
 description:         'wzdmc blog description'
 url:                 http://wzdmc.github.io
-baseurl:             'http://wzdmc.github.io'
+baseurl:             '/'
 paginate:            5
 permalink:           pretty
 
 # About/contact
 author:
-  name:              Mark Otto
+  name:              Daniel Lee
   url:               https://twitter.com/agstardis
   email:             wzd1027@gmail.com
 
