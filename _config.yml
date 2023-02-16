@@ -3,7 +3,7 @@ title:               WZDMC
 tagline:             'wzdmc blog'
 description:         'wzdmc blog description'
 url:                 http://wzdmc.github.io
-baseurl:             ''
+baseurl:             'http://wzdmc.github.io'
 paginate:            5
 permalink:           pretty
 
