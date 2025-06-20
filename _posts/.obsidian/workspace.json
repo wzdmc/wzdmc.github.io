@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-06-20-test.md.md",
+                "file": "2025-06-20-test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-20-test.md"
+              "title": "2025-06-20-test"
             }
           }
         ]
@@ -168,10 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0610615f9aa79d67",
+  "active": "01f9dcf012bcdf47",
   "lastOpenFiles": [
     "_templates/post_template.md",
-    "2025-06-20-test.md.md",
+    "2025-06-20-test.md",
     "_templates"
   ]
 }
